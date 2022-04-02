@@ -7,7 +7,7 @@
 You can post a feature request or a bug report using the issues tab.
 
 
-[Privacy Policy](../PrivacyPolicy.md)
+[Privacy Policy](PrivacyPolicy.md)
 
 <details>
   <summary>Contact</summary>
