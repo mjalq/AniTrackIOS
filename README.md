@@ -14,3 +14,10 @@ You can post a feature request or a bug report using the issues tab.
 **anitrackapp@gmail.com**
   
 </details>
+
+
+<details>
+  <summary>Privacy Policy</summary>
+  [Found At](./PrivacyPolicy.md)
+  
+</details>
