@@ -6,6 +6,9 @@
 
 You can post a feature request or a bug report using the issues tab.
 
+
+[Privacy Policy](../PrivacyPolicy.md)
+
 <details>
   <summary>Contact</summary>
   
@@ -16,8 +19,5 @@ You can post a feature request or a bug report using the issues tab.
 </details>
 
 
-<details>
-  <summary>Privacy Policy</summary>
-  [Found At](./PrivacyPolicy.md)
-  
-</details>
+
+
