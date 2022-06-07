@@ -6,6 +6,7 @@
 
 You can post a feature request or a bug report using the issues tab.
 
+[AniTrack Page](https://apps.apple.com/ae/app/anitrack/id1597365390)
 
 [Privacy Policy](PrivacyPolicy.md)
 
